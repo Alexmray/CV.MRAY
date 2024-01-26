@@ -1,0 +1,150 @@
+
+body{
+    background-color:E4F9F8;
+    margin:0;
+    color: 40514E;
+    font-family:verdana,sans_serif;
+    text-align:center;
+    
+
+}
+
+.middle-container{
+    padding: 20px;
+}
+.bottom-container{
+    background-color: blueviolet;
+    padding: 50px 0 20px 0;
+
+}
+.top_cloud{
+    position: absolute;
+    right:300px ;
+    top: 40px;
+
+}
+.bottom_cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 250px;
+}
+p{
+    line-height: 2;
+}
+hr{
+    border:dotted 6px aqua;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+
+
+
+
+
+h2{
+    color: aqua;
+    padding: 10px;
+}
+
+h3{
+    color: aquamarine;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto ;
+    text-align: left;
+    
+
+
+}
+.Ai{
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+}
+.web{
+    width: 25%;
+    float: right;
+    margin-right: 20px;
+    
+}
+.intro{
+    width: 30% ;
+    margin: auto;
+}
+a{
+    margin: 10px;
+    color: blue;
+
+}
+a:hover{
+    color: #EAEAF6;
+}
+.PP{
+    width: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+.top_container{
+    background-color: aliceblue;
+    position: relative;
+    padding-top: 100px;
+
+    
+
+}
+
+
+
+.pro {
+    text-decoration: underline;
+
+}
+
+h1{
+    width: 50%;
+    margin: 0 auto;
+    font-family: sacramento,cursive;
+    font-size: 60px;
+    color: aquamarine;
+
+}
+
+.bottom_cloud{
+    position: absolute;
+
+}
+
+top_cloud{
+    position: absolute;
+    right: 300px;
+    top: 100px;
+
+mountain{
+    font-weight: 100;
+    
+}
+
+.profile{
+
+    position: relative;
+    
+
+}
+
+.copyright{
+    color: blue;
+    font-size: 0.75rem;
+    padding: 20px;
+}
